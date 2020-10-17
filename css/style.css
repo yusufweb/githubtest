@@ -50,7 +50,7 @@
 
 /* general styling */
 body {
-    background: var(--color-White);
+    background: var(--Light-Grayish-Violet);
     font-family: 'Rubik', sans-serif;
     font-size: var(--font-size-body);
     font-weight: var(--font-w-light);
